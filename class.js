@@ -45,4 +45,5 @@ class Word {
   }
 }
 
+// console.log(new Word('alphabet').pigLatin())
 module.exports = { Word };
